@@ -1,0 +1,22 @@
+{
+  "name": "hris-npm",
+  "version": "0.1.0",
+  "description": "hris-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workflow-Ease/HRIS-npm.git"
+  },
+  "keywords": [
+    "hris-npm"
+  ],
+  "author": "hris-npm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Workflow-Ease/HRIS-npm/issues"
+  },
+  "homepage": "https://github.com/Workflow-Ease/HRIS-npm#readme"
+}
